@@ -14,7 +14,15 @@
   "author": "Daniel Gonzalez <oscar.d.gonzalez@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg-odg": "./bin/global.js"
+    "random-msg-odg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odagora/random-msgs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/odagora/random-msgs/issues"
+  },
+  "homepage": "https://github.com/odagora/random-msgs#readme"
 }
